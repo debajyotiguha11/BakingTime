@@ -8,7 +8,7 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        tools:context="maha.abdelshafy.com.bakingtime.debjyoti.abdelshafy.com.bakingtime.RecipeDetailActivity">
+        tools:context="debjyoti.example.com.bakingtime.RecipeDetailActivity">
 
         <FrameLayout
             android:id="@+id/recipe_detail_container"
